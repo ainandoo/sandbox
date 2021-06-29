@@ -2,4 +2,4 @@
 
 # Selamat datang...
 
-Silakan fork repo ini, kemudian lakukan edit dan pull request.
+Silakan fork repo ini, lakukan edit, pull request atau apa aja.
