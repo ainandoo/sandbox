@@ -1,3 +1,0 @@
-this is the first sandbox text to test the github command line from linux
-
-this is the second paragraph
